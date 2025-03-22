@@ -1,7 +1,18 @@
 # 💻 **Saad Ul Hassan**  
 🚀 **Minecraft Server Manager & Configurator** | 💾 **C++ Developer**  
 
-![GitHub Banner](https://github.com/Saadi43/Saadi43/blob/main/image1)
+<svg width="100%" height="200">
+  <defs>
+    <pattern id="bg" patternUnits="userSpaceOnUse" width="100%" height="200">
+      <image href="https://github.com/Saadi43/Saadi43/blob/main/image1" width="100%" height="200"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="200" fill="url(#bg)"/>
+  <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" fill="white" font-size="24">
+    Saad Ul Hassan - Minecraft Server Manager & Configurator
+  </text>
+</svg>
+
 
 ## 👨‍💻 **About Me**  
 - 🎮 Passionate about **Minecraft server setups & configurations**  
