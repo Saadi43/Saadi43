@@ -24,8 +24,6 @@
 ## 🚀 **Tech Stack**  
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Skript](https://img.shields.io/badge/Skript-00A0E4?style=for-the-badge)  
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)  
 
 ## 📊 **GitHub Stats**  
 ![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saadi43&show_icons=true&theme=radical)  
