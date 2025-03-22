@@ -17,7 +17,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadi43&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Saadi43&theme=radical)  
 
-## 🌟 **Dynamic Widgets**  
 ![Profile Views](https://komarev.com/ghpvc/?username=Saadi43&label=Profile+Views&color=red&style=for-the-badge)  
 ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Saadi43/&title=Visitors)  
 
