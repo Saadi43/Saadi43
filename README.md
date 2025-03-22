@@ -1,7 +1,7 @@
 # 💻 **Saad Ul Hassan**  
 🚀 **Minecraft Server Manager & Configurator** | 💾 **C++ Developer**  
 
-![GitHub Banner](https://via.placeholder.com/1000x250?text=Welcome+to+my+GitHub!)  
+![GitHub Banner](https://github.com/Saadi43/Saadi43/raw/main/image1.png)
 
 ## 👨‍💻 **About Me**  
 - 🎮 Passionate about **Minecraft server setups & configurations**  
