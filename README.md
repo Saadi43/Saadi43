@@ -1,46 +1,41 @@
-# 💻 Saad Ul Hassan
-
-### 🚀 Minecraft Server Manager | 💾 C++ Developer
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h2>👨‍💻 About Me</h2>
-      <ul>
-        <li>🎮 Passionate about <b>Server Optimization</b></li>
-        <li>🛠️ Skilled in <b>Skript & Plugins</b></li>
-        <li>🌱 Learning <b>C++ & Algorithms</b></li>
-        <li>🎓 Student at <b>IQRA University Islamabad</b></li>
-        <li>💡 Exploring <b>Game Development</b></li>
-      </ul>
-      <br />
-      <h3>🛠️ Languages & Tools</h3>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Skript-00A0E4?style=flat-square" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h2>📊 Weekly Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=Saadi43&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadi43&layout=compact&theme=radical&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Saadi43&theme=radical&hide_border=true" width="80%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22)%3B;std::cout+<<+%22I+am+Saad.%22+%3B;Minecraft+Server+Manager+%E2%9C%85;C%2B%2B+Developer+%2F+Configurator;Loading+Profile..." alt="Typing SVG" />
+</a>
+
+<br>
+
+<p>
+  <a href="https://github.com/Saadi43">
+    <img src="https://img.shields.io/github/followers/Saadi43?label=Followers&logo=github&style=for-the-badge&color=222&labelColor=00FF99" />
+  </a>
+  <a href="https://discord.com/users/7289DA">
+    <img src="https://img.shields.io/badge/Discord-Online-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Saadi43&count_bg=%2300FF99&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true"/>
+  </a>
+</p>
+
 </div>
 
-<br />
+---
 
-<div align="center">
-  <h3>📫 Let's Connect</h3>
-  <a href="https://discord.com/@saad123400"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://instagram.com/saad123400"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://portfolio.saad123400.me"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge" /></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Saadi43&label=Profile+Views&color=red&style=flat-square" />
-</div>
+### 👨‍💻 `User: Saad Ul Hassan`
+
+```cpp
+#include <iostream>
+
+class Profile {
+public:
+    std::string name = "Saad Ul Hassan";
+    std::string role = "Minecraft Server Architect & C++ Dev";
+    std::string education = "IQRA University Islamabad";
+    
+    void current_mission() {
+        // Turning coffee into optimized server configs
+        std::cout << "Focus: Skript, Plugin Management, & Optimization" << std::endl;
+        std::cout << "Learning: Advanced C++ & Digital Logic" << std::endl;
+    }
+};
